@@ -82,7 +82,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/gbgUjqv.png"/>
 </p>
 <p>
-their department access, with each role offering customizable permissions for agents in various departments, such as the 'Supreme Admin' role.
+Configure roles in the Admin Panel to grant specific permissions to agents based on their department access, with each role offering customizable permissions for agents in various departments, such as the 'Supreme Admin' role.
 </p>
 <br />
 
