@@ -98,10 +98,61 @@ Organize agents into departments via the Admin Panel to improve management, such
 <br />
 
 <p>
+<img src="https://i.imgur.com/kMWf5me.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/dv6y5yn.png"/>
+</p>
+<p>
+Configure Teams: Group agents from various departments into teams to handle specific issues, utilizing these teams with help topics or ticket filters, like 'Level I' and 'Level II Support'.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/sIDyxwy.png"/>
+</p>
+<p>
+ Enable both registered and unregistered users to create tickets, with an optional registration requirement in the User Settings.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Configure Teams: Group agents from various departments into teams to handle specific issues, utilizing these teams with help topics or ticket filters, like 'Level I' and 'Level II Support'.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Teams: Group agents from various departments into teams to handle specific issues, utilizing these teams with help topics or ticket filters, like 'Level I' and 'Level II Support'.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Teams: Group agents from various departments into teams to handle specific issues, utilizing these teams with help topics or ticket filters, like 'Level I' and 'Level II Support'.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Teams: Group agents from various departments into teams to handle specific issues, utilizing these teams with help topics or ticket filters, like 'Level I' and 'Level II Support'.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Configure Teams: Group agents from various departments into teams to handle specific issues, utilizing these teams with help topics or ticket filters, like 'Level I' and 'Level II Support'.
 </p>
 <br />
 
