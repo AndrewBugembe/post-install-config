@@ -131,7 +131,7 @@ Assign agents, who can access the help desk to respond to and resolve tickets, t
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Teams: Group agents from various departments into teams to handle specific issues, utilizing these teams with help topics or ticket filters, like 'Level I' and 'Level II Support'.
+Allow users to create accounts and tickets, identifying them by their email addresses, and add new users like 'Karen' and 'Ken' in the Agent Panel.'.
 </p>
 <br />
 
@@ -139,7 +139,7 @@ Configure Teams: Group agents from various departments into teams to handle spec
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Teams: Group agents from various departments into teams to handle specific issues, utilizing these teams with help topics or ticket filters, like 'Level I' and 'Level II Support'.
+Establish SLA plans to define expected ticket resolution times, offering various service levels such as 'SERVICE-A' (1 hour, 24/7) and 'SERVICE-B' (4 hours, 24/7).
 </p>
 <br />
 
@@ -147,15 +147,9 @@ Configure Teams: Group agents from various departments into teams to handle spec
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Configure Teams: Group agents from various departments into teams to handle specific issues, utilizing these teams with help topics or ticket filters, like 'Level I' and 'Level II Support'.
+Create and categorize help topics in the Admin Panel for efficient ticket routing, such as 'Network issues', 'Login issues', and 'Hardware'.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Configure Teams: Group agents from various departments into teams to handle specific issues, utilizing these teams with help topics or ticket filters, like 'Level I' and 'Level II Support'.
-</p>
-<br />
+
 
