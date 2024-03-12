@@ -117,10 +117,13 @@ Configure Teams: Group agents from various departments into teams to handle spec
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/7OKeMdF.png"/>
 </p>
 <p>
-Configure Teams: Group agents from various departments into teams to handle specific issues, utilizing these teams with help topics or ticket filters, like 'Level I' and 'Level II Support'.
+<img src="https://i.imgur.com/qySpGpa.png"/>
+</p>
+<p>
+Assign agents, who can access the help desk to respond to and resolve tickets, to primary departments and roles, with options for extended access, like assigning 'Jane' and 'John'.
 </p>
 <br />
 
