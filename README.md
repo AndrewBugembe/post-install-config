@@ -128,7 +128,7 @@ Assign agents, who can access the help desk to respond to and resolve tickets, t
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/GAMrPOI.png"/>
 </p>
 <p>
 Allow users to create accounts and tickets, identifying them by their email addresses, and add new users like 'Karen' and 'Ken' in the Agent Panel.'.
@@ -136,7 +136,13 @@ Allow users to create accounts and tickets, identifying them by their email addr
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T7W9xRF.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/dy5ZMb5.png"/>
+</p>
+<p>
+<img src="https://i.imgur.com/TP7bqOi.png"/>
 </p>
 <p>
 Establish SLA plans to define expected ticket resolution times, offering various service levels such as 'SERVICE-A' (1 hour, 24/7) and 'SERVICE-B' (4 hours, 24/7).
@@ -144,7 +150,7 @@ Establish SLA plans to define expected ticket resolution times, offering various
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WqWoTUg.png"/>
 </p>
 <p>
 Create and categorize help topics in the Admin Panel for efficient ticket routing, such as 'Network issues', 'Login issues', and 'Hardware'.
