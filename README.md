@@ -93,7 +93,7 @@ Configure roles in the Admin Panel to grant specific permissions to agents based
 <img src="https://i.imgur.com/rnpkkzh.png"/>
 </p>
 <p>
-Organize agents into departments via the Admin Panel to improve management, such as creating a 'System Administrators' department
+Organize agents into departments via the Admin Panel to improve management, such as creating a 'System Administrators' department.
 </p>
 <br />
 
@@ -131,7 +131,7 @@ Assign agents, who can access the help desk to respond to and resolve tickets, t
 <img src="https://i.imgur.com/GAMrPOI.png"/>
 </p>
 <p>
-Allow users to create accounts and tickets, identifying them by their email addresses, and add new users like 'Karen' and 'Ken' in the Agent Panel.'.
+Allow users to create accounts and tickets, identifying them by their email addresses, and add new users like 'Karen' and 'Ken' in the Agent Panel.
 </p>
 <br />
 
